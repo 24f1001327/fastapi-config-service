@@ -22,7 +22,7 @@ load_dotenv()
 
 # Default configuration
 DEFAULT_CONFIG = {
-    "port": 8000,
+    "port": 8856,
     "workers": 1,
     "debug": False,
     "log_level": "info",
